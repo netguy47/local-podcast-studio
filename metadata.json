@@ -1,0 +1,6 @@
+{
+  "name": "Local Podcast Studio",
+  "description": "Zero-cost, 100% local podcast creation with emotional voice synthesis and generative scripting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["audio_generation", "local_storage"]
+}
